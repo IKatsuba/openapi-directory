@@ -18,7 +18,7 @@
     "json-refs": "git+https://github.com/whitlockjc/json-refs.git",
     "jsondiffpatch": "^0.1.33",
     "jsonpath": "^0.2.0",
-    "lodash": "^4.6.1",
+    "lodash": "^4.17.21",
     "makeRequest": "github:apis-guru/makeRequest",
     "merge-stream": "^1.0.0",
     "mime-db": "^1.19.0",
